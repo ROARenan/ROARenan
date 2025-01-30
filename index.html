@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ROARenan</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white font-mono">
+    <!-- Navbar -->
+    <nav class="fixed top-0 left-0 right-0 bg-gradient-to-r from-purple-600 to-blue-600 p-4 flex justify-between items-center shadow-lg">
+        <h1 class="text-3xl font-bold">ROA</h1>
+        <div>
+            <a href="#sobre" class="px-4 hover:text-gray-300">Sobre</a>
+            <a href="#projetos" class="px-4 hover:text-gray-300">Projetos</a>
+            <a href="#contato" class="px-4 hover:text-gray-300">Contato</a>
+        </div>
+    </nav>
+    
+    <!-- Hero Section -->
+    <section class="h-screen flex flex-col justify-center items-center text-center px-6">
+        <h2 class="text-5xl md:text-7xl font-bold">Olá, eu sou <span class="text-yellow-400">Renan Santana</span></h2>
+        <p class="text-xl mt-4">🚀 Desenvolvedor Full Stack | 🧠 Cientista de Dados</p>
+        <div class="mt-6 flex space-x-4">
+            <a href="#projetos" class="px-6 py-3 bg-yellow-500 text-gray-900 rounded-lg hover:bg-yellow-600 transition font-bold shadow-lg">Ver Meus Projetos</a>
+            <a href="#contato" class="px-6 py-3 border-2 border-white rounded-lg hover:bg-white hover:text-gray-900 transition font-bold">Fale Comigo</a>
+        </div>
+    </section>
+
+    <!-- Seção Sobre Mim -->
+    <section id="sobre" class="py-20 px-6 text-center bg-gray-800">
+        <h2 class="text-4xl font-bold">👤 Sobre Mim</h2>
+        <div class="mt-6 flex justify-center">
+            <!-- Foto retangular com cantos arredondados -->
+            <img src="./renan_santana.jpg" alt="Foto de Renan Santana" class="w-[300px] h-[400px] rounded-lg object-cover shadow-lg">
+        </div>
+        <p class="text-gray-400 mt-6 text-xl max-w-3xl mx-auto">
+            Olá, sou Renan Santana, um apaixonado por tecnologia e inovação. Sou desenvolvedor full stack e cientista de dados, com um grande interesse em construir soluções que impactam positivamente a vida das pessoas. Estou sempre em busca de novos desafios para aprender e crescer.
+        </p>
+    </section>
+
+    <!-- Seção de Projetos -->
+    <section id="projetos" class="py-20 px-6 text-center">
+        <h2 class="text-4xl font-bold">📂 Projetos</h2>
+        <p class="text-gray-400 mt-2">Explore meus trabalhos e desafios resolvidos</p>
+        <div class="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <!-- Espaço reservado para projetos -->
+            <div class="border p-6 rounded-lg bg-gray-800 text-gray-300 flex flex-col items-center justify-center">🚧 Em construção...</div>
+        </div>
+    </section>
+    
+    <!-- Seção de Contato -->
+    <section id="contato" class="py-20 px-6 text-center bg-gray-800">
+        <h2 class="text-4xl font-bold">📩 Contato</h2>
+        <p class="text-gray-400 mt-2">Vamos bater um papo sobre tecnologia e inovação!</p>
+        <div class="mt-6 flex space-x-4 justify-center">
+            <a href="mailto:seuemail@example.com" class="px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition font-bold shadow-lg">✉️ Email</a>
+            <a href="https://github.com/seu-usuario" target="_blank" class="px-6 py-3 border-2 border-white rounded-lg hover:bg-white hover:text-gray-900 transition font-bold">🐙 GitHub</a>
+        </div>
+    </section>
+</body>
+</html>
