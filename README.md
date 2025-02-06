@@ -27,5 +27,5 @@ Aqui estão as linguagens que mais utilizo nos meus projetos:
 
 Vamos bater um papo sobre tecnologia e inovação! 
 
-- 📧 [Email](mailto:seuemail@example.com)
-- 🐙 [GitHub](https://github.com/seu-usuario)
+- 📧 [Email](mailto:renan.santana@pedreira.org)
+- 🐙 [GitHub](https://github.com/ROARenan)
