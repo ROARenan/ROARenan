@@ -1,4 +1,4 @@
-# Olá, eu sou **Renan Santana** 👋
+# **Renan Santana**
 
 ## 🚀 Desenvolvedor Full Stack | 🧠 Cientista de Dados
 
