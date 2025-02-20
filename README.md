@@ -15,10 +15,8 @@ Explore meus projetos e desafios resolvidos.
 
 ---
 
-## 📊 Linguagens Mais Usadas
-
-Aqui estão as linguagens que mais utilizo nos meus projetos:
-
+## 📊 Stats
+![Renan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROARenan&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROARenan&layout=compact&theme=radical)
 
 ---
