@@ -1,6 +1,6 @@
 # **Renan Santana**
 
-## 🚀 Desenvolvedor Full Stack | 🧠 Cientista de Dados
+## 🚀 Desenvolvedor Full Stack | 🧠 Data Science & BI
 
 Bem-vindo ao meu perfil! Sou apaixonado por tecnologia e inovação, sempre em busca de novos desafios para aprender e crescer. 
 Sou Renan Santana, desenvolvedor full stack e cientista de dados. Tenho um grande interesse em construir soluções que impactem positivamente a vida das pessoas. 
